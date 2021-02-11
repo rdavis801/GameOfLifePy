@@ -1,3 +1,6 @@
+# This is Conway's Game of Life.
+# Written by Ron Davis.
+
 import random
 import time
 import os
